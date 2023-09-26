@@ -1,0 +1,27 @@
+/* Estilos de la barra de navegación */
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    color: #ffc107;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: #ff9900;
+}
+
+.nav-item {
+    padding: 0 15px;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #ffc107;
+}

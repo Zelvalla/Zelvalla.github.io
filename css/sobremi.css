@@ -1,0 +1,29 @@
+/* Estilos de la sección "Sobre Mí" */
+.section#sobremi {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.section-title#sobremi {
+    font-size: 24px;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.card#sobremi {
+    background-color: #f8f9fa;
+    border: none;
+}
+
+.card-title#sobremi {
+    font-size: 20px;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.card-text#sobremi {
+    color: #555;
+}

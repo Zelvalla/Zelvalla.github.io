@@ -1,0 +1,29 @@
+/* Estilos de la sección "Formación" */
+.section#formacion {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.section-title#formacion {
+    font-size: 24px;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.card#formacion {
+    background-color: #f8f9fa;
+    border: none;
+}
+
+.card-title#formacion {
+    font-size: 20px;
+    font-weight: bold;
+    color: #343a40;
+}
+
+.card-text#formacion {
+    color: #555;
+}
